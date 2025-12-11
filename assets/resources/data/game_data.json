@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "id": 101,
+      "type": "cookie",
+      "name": "용감한 쿠키",
+      "image_path": "cookies/cookie_101",
+      "tags": "brave,basic",
+      "desc": "가장 용감해"
+    },
+    {
+      "id": 102,
+      "type": "cookie",
+      "name": "명랑한 쿠키",
+      "image_path": "cookies/cookie_102",
+      "tags": "cute,pink",
+      "desc": "명랑한 성격"
+    },
+    {
+      "id": 201,
+      "type": "pet",
+      "name": "초코방울",
+      "image_path": "pets/pet_201",
+      "tags": "sweet,choco",
+      "desc": "곰젤리 제작"
+    },
+    {
+      "id": 301,
+      "type": "treasure",
+      "name": "명예로운 기사의 검",
+      "image_path": "treasures/tr_301",
+      "tags": "brave,cool,knight",
+      "desc": "조각난 젤리 점수 추가"
+    }
+  ],
+  "missions": [
+    {
+      "id": 1,
+      "text": "귀여운 핑크색 옷 있어?",
+      "req_tags": "cute,pink",
+      "reward": 100
+    },
+    {
+      "id": 2,
+      "text": "무서운 분위기 부탁해!",
+      "req_tags": "horror,purple",
+      "reward": 150
+    }
+  ]
+}
