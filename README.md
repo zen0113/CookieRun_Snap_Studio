@@ -41,9 +41,9 @@
 
 |                                                 플레이 화면                                                 | 설명                                     |
 | :----------------------------------------------------------------------------------------------------: | :------------------------------------- |
-| <img src="YOUR_GIF_1.gif?raw=true" width="320"/> | 매치-3 퍼즐 게임플레이 및 콤보 시스템 |
-| <img src="YOUR_GIF_2.gif?raw=true" width="320"/> | 드래그 앤 드롭 기반 캐릭터 꾸미기 시스템 |
-| <img src="YOUR_GIF_3.gif?raw=true" width="320"/> | 태그 기반 채점 및 스타 등급 시스템 |
+| <img src="https://github.com/zen0113/CookieRun_Snap_Studio/blob/master/snapstudio_3.png?raw=true" width="320"/> | 매치-3 퍼즐 게임플레이 및 콤보 시스템 |
+| <img src="https://github.com/zen0113/CookieRun_Snap_Studio/blob/master/snapstudio_1.png?raw=true" width="320"/> | 상점 구매 시스템 |
+| <img src="https://github.com/zen0113/CookieRun_Snap_Studio/blob/master/snapstudio_2.png?raw=true" width="320"/> | 드래그 앤 드롭 기반 캐릭터 꾸미기 시스템 |
 
 </div>
 
