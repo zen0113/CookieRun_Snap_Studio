@@ -182,8 +182,6 @@
 
 ## 🛠 Technical Stack
 
-<div align="center">
-
 ![Cocos Creator](https://img.shields.io/badge/Cocos_Creator-55C2E1?style=for-the-badge&logo=cocos&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
